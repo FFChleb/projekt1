@@ -1,6 +1,12 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    
+    height: 200vh;
+    margin: 0;
       }  
-    
+    header {
+height: 100vh;
+background: url('../assets/img/bg_header.webp') center/cover fixed;
+
+
+    }
